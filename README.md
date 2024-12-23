@@ -3,8 +3,11 @@
 **Company**: CODETECH IT SOLUTIONS
 
 **ID**: CT0806HU
+
 **Domain**: Python Programming
+
 **Duration**: 12th December to 12th January
+
 **Mentor**: Neela Santhosh Kumar
 
 **Overview of the Project**
